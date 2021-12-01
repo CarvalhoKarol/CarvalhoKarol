@@ -7,10 +7,13 @@
 </div>
   
 <div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="SS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Node.js" height="35" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png">
+  <img align="center" alt="Postman" height="35" width="40"  src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/postman-logo.png">
+  
   
   ##
   
@@ -24,6 +27,9 @@
   
   
 <!--
+
+Logo Azure
+<img align="center" alt="Azure" height="35" width="50"  src="https://logos-world.net/wp-content/uploads/2021/05/Azure-Logo-700x394.png">
 
 Cobrinha
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
