@@ -11,8 +11,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node.js" height="35" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png">
-  <img align="center" alt="Postman" height="35" width="40"  src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/postman-logo.png">
+  <img align="center" alt="Postman" height="35" width="40"  src="https://user-images.githubusercontent.com/4432322/40915949-486d2f36-67d4-11e8-8037-9578c2aeb9d2.png">
   
   
   ##
