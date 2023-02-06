@@ -14,7 +14,10 @@
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919832.png">
   <img align="center" alt="ReactJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Vue.js" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg">
   <img align="center" alt="Next" height="40" width="40" src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png">
+  <img align="center" alt="Nuxt" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg">
+  <img align="center" alt="Vite" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/vitejs.svg">
   <img align="center" alt="Postman" height="40" width="40"  src="https://user-images.githubusercontent.com/4432322/40915949-486d2f36-67d4-11e8-8037-9578c2aeb9d2.png">
   
   
