@@ -1,4 +1,4 @@
-### Oie! Eu sou a Karoline Carvalho 👋
+### Oie! 👋
 
 <div align="center">
   <a href="https://github.com/KarolineCarvalho">
